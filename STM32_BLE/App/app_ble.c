@@ -149,7 +149,7 @@ typedef struct
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 #define LED_ON_TIMEOUT_MS              (5)
-#define ADV_TIMEOUT_MS                 (60 * 1000)
+#define ADV_TIMEOUT_MS                 (6 * 1000)
 #define FW_DATA3_FUOTA                 (0x01)
 /* USER CODE END PD */
 /* Private macro -------------------------------------------------------------*/

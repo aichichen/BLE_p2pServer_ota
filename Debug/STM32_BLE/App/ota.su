@@ -1,0 +1,4 @@
+../STM32_BLE/App/ota.c:187:30:OTA_EventHandler	80	static
+../STM32_BLE/App/ota.c:455:6:OTA_Init	24	static
+../STM32_BLE/App/ota.c:503:12:OTA_UpdateValue	24	static
+../STM32_BLE/App/ota.c:552:12:OTA_NotifyValue	48	static

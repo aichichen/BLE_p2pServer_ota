@@ -205,7 +205,6 @@ uint8_t APPE_ButtonIsLongPressed(uint16_t btnIdx)
  */
 __WEAK void APPE_Button1Action(void)
 {
-	APP_DBG_MSG("APPE_Button1Action\n");
 }
 
 /**
